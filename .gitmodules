@@ -1,12 +1,16 @@
 [submodule "1-cube-segmentation"]
 	path = 1-cube-segmentation
 	url = git@github.com:CubeCV/1-cube-segmentation.git
+	branch = main
 [submodule "2-piece-detection"]
 	path = 2-piece-detection
 	url = git@github.com:CubeCV/2-piece-detection.git
+	branch = main
 [submodule "3-state-mapping"]
 	path = 3-state-mapping
 	url = git@github.com:CubeCV/3-state-mapping.git
+	branch = main
 [submodule "images"]
 	path = images
 	url = git@github.com:CubeCV/images.git
+	branch = main
