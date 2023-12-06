@@ -7,3 +7,6 @@
 [submodule "3-state-mapping"]
 	path = 3-state-mapping
 	url = git@github.com:CubeCV/3-state-mapping.git
+[submodule "images"]
+	path = images
+	url = git@github.com:CubeCV/images.git
