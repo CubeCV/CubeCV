@@ -8,7 +8,7 @@ This project initially started as a CalHacks project where we built a SwiftUI ap
 
 ### Pipeline
 
-We use DINO + LangSAM (bbox output from DINO to LangSAM for segmentation) to produce a segmented cube, and pass this into a classical CV pipeline, where the final state is extracted.
+We use DINO + LangSAM (bbox output from DINO to LangSAM for segmentation) to produce a segmented cube (`1-cube-segmentation`), and pass this into a classical CV pipeline to detect the pieces (`2-piece-detection`), where the final state is extracted (`3-state-mapping`).
 ![pipeline](https://github.com/CubeCV/cubecv/assets/65262710/fbf1ae38-08da-4b5b-9a58-8a8e00dac2ef)
 
 
