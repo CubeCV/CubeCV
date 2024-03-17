@@ -1,0 +1,10 @@
+*.mov
+.DS_Store
+
+__pycache__
+opencv
+
+*.out
+
+app/opencv2.framework
+app/opencv2.framework/*

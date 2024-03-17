@@ -1,1 +1,3 @@
 .DS_Store
+./v1-calhacks/app/opencv2.framework/
+./v1-calhacks/app/opencv2.framework/*
